@@ -45,7 +45,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-- Learned how to use positions in CSS.
+- Practice positions in CSS.
 
 ### Continued development
 
